@@ -1,11 +1,11 @@
-# 👶 BOB : Best Of Baby 👶
+# <img width="120" alt="image" src="https://github.com/LSTM2023/.github/assets/87134427/6dd0f374-364f-4077-9bdc-1a5105884bbe"> : Best Of Baby
 
 ## 2023 공개 SW 개발자대회
 
+<img alt="image" src="https://github.com/LSTM2023/.github/assets/87134427/1dc9816a-3d54-4d98-b946-689ea947304d"><br>
+
 > 대회 웹사이트: https://www.oss-registration.kr/ <br>
 > 팀 LSTM 유튜브: https://youtube.com/@LSTM-vm7ee?si=nRDuaPTrV0n-HTDs <br>
-
-<img width="232" alt="image" src="https://github.com/LSTM2023/BoB-AppPart/assets/87134427/8538e986-f09b-44af-b44a-16a57ada4127">
 
 ## 개발 배경
 
