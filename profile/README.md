@@ -2,10 +2,11 @@
 
 ## 2023 공개 SW 개발자대회
 
-<img alt="image" src="https://github.com/LSTM2023/.github/assets/87134427/1dc9816a-3d54-4d98-b946-689ea947304d"><br>
-
+![└┌╗ъ 2@3x](https://github.com/LSTM2023/.github/assets/87134427/68e31f2f-1acb-4ae5-af64-415cf634b81a)
 > 대회 웹사이트: https://www.oss-registration.kr/ <br>
-> 팀 LSTM 유튜브: https://youtube.com/@LSTM-vm7ee?si=nRDuaPTrV0n-HTDs <br>
+> 팀 LSTM 유튜브: https://youtube.com/@LSTM-vm7ee?si=nRDuaPTrV0n-HTDs
+
+<br>
 
 ## 개발 배경
 
