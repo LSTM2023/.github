@@ -80,8 +80,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://youtu.be/c2o72P_bTTw?feature=shared" title="Best of Baby by LSTM">
-          <img align="center" src="https://github.com/LSTM2023/.github/assets/99634832/a94b3e77-2183-496a-98ba-a29b8ff3a0f1" width="400">
+        <a href="https://www.youtube.com/watch?v=c2o72P_bTTw" title="Best of Baby - LSTM">
+          <img align="center" src="https://img.youtube.com/vi/c2o72P_bTTw/0.jpg" width="400">
         </a>
     </tr>
   </tbody>
