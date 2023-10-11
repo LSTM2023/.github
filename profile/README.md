@@ -67,9 +67,6 @@
 ## 📀 System Structure
 ![System Structure](https://github.com/LSTM2023/BoB-AppPart/assets/99634832/900705e5-b8bc-4273-ad0a-3b87de79a058)
 
-
-
-
 ## :link: Library Licenses
 - V4L2rtspserver : for Home CAM Streaming using RTSP Protocol
   - https://github.com/mpromonet/v4l2rtspserver
@@ -77,3 +74,15 @@
   - https://github.com/ultralytics/ultralytics
 - SyRIP : for Fine-Tuning YOLOv8 Pose Estimation Model
   - https://github.com/ostadabbas/Infant-Pose-Estimation
+
+## 📽️ Our Videos!
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/c2o72P_bTTw?feature=shared" title="Best of Baby by LSTM">
+          <img align="center" src="https://github.com/LSTM2023/.github/assets/99634832/a94b3e77-2183-496a-98ba-a29b8ff3a0f1" width="400">
+        </a>
+    </tr>
+  </tbody>
+</table>
