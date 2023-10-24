@@ -28,14 +28,11 @@
 
 ## 팀원
 
-| 팀원                                           | 역할                                                    |
-| :--------------------------------------------- | :------------------------------------------------------ |
-| 😆 [노승하(PM)](https://github.com/seungha164) | Frontend App (with Flutter)                             |
-| :wink: [김정효](https://github.com/jjanghyo)   | Frontend App (with Flutter)                             |
-| 😊 [홍찬의](https://github.com/hcu55)          | Frontend App (with Flutter)                             |
-| 😎 [임원빈](https://github.com/Mmm2927)        | Backend (with Django, PostgreSQL, Azure, CI/CD)         |
-| :grin: [피선우](https://github.com/SunWoo98Pi) | AI/DL Pose Estimation (with Ultralytics) & Raspberry Pi |
-| :smile: 민동현                                 | UI Design & Video Production                            |
+|                                                                                                 |                                                                                                 |                                                                                                 |                                                                                                 |                                                                                                 |                                                                                                 |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![sh](https://github.com/LSTM2023/.github/assets/87134443/5e4a3ab9-3995-4788-a00e-6703f8427524) | ![jh](https://github.com/LSTM2023/.github/assets/87134443/02e46474-268e-4324-9098-c5ca189213a8) | ![cu](https://github.com/LSTM2023/.github/assets/87134443/04fdaa22-9bda-4902-a711-ffa96526dbd9) | ![wb](https://github.com/LSTM2023/.github/assets/87134443/df2ccbe5-18e0-4633-9a6b-c1033b72be43) | ![sw](https://github.com/LSTM2023/.github/assets/87134443/6abc05e7-7570-4fa3-b4b1-5dbcafae6059) | ![sw](https://github.com/LSTM2023/.github/assets/87134443/6abc05e7-7570-4fa3-b4b1-5dbcafae6059) |
+| [노승하(PM)](https://github.com/seungha164)                                                     | [김정효](https://github.com/jjanghyo)                                                           | [홍찬의](https://github.com/hcu55)                                                              | [임원빈](https://github.com/Mmm2927)                                                            | [피선우](https://github.com/SunWoo98Pi)                                                         | 민동현                                                                                          |
+| Frontend App (with Flutter)                                                                     | Frontend App (with Flutter)                                                                     | Frontend App (with Flutter)                                                                     | Backend (with Django, PostgreSQL, Azure, CI/CD)                                                 | AI/DL Pose Estimation (with Ultralytics) & Raspberry Pi                                         | UI Design & Video Production                                                                    |
 
 ---
 
