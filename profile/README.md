@@ -76,7 +76,7 @@
 
 ## :link: Library Licenses
 
-> [OSS Notice List](./oss_license.md)
+> [OSS Notice List](https://github.com/LSTM2023/.github/blob/main/profile/oss_license.md)
 
 ## 📽️ Our Videos!
 
