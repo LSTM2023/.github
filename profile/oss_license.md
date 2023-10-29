@@ -56,9 +56,3 @@
 | flutter_local_notifications | 15.1.1  | BSD 3-Clause             | https://github.com/MaikuB/flutter_local_notifications/tree/master/flutter_local_notifications      |
 | firebase_core               | 2.15.1  | BSD 3-Clause             | https://github.com/firebase/flutterfire/tree/master/packages/firebase_core/firebase_core           |
 | image_picker                |         | Apache-2.0, BSD 3-Clause | https://github.com/flutter/packages/tree/main/packages/image_picker/image_picker                   |
-
-#### ETC
-
-| Name                     | Version | License     | Link                              |
-| ------------------------ | ------- | ----------- | --------------------------------- |
-| Firebase Cloud Messaging | -       | unspecified | https://firebase.google.com/terms |
