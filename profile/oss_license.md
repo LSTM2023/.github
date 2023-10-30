@@ -2,22 +2,34 @@
 
 #### AI
 
-| Name                  | Version  | License    | Link                                              |
-| --------------------- | -------- | ---------- | ------------------------------------------------- |
-| ultralytics (YOLOv8)  | 8.0.141  | AGPL-3.0   | https://github.com/ultralytics/ultralytics        |
-| OpenCV                | 4.7.0.72 | Apache-2.0 | https://github.com/opencv/opencv                  |
-| firebase-admin-python | 6.1.0    | Apache-2.0 | https://github.com/firebase/firebase-admin-python |
+| Name                  | Version    | License       | Link                                              |
+| --------------------- | --------   | ----------    | ------------------------------------------------- |
+| ultralytics (YOLOv8)  | 8.0.141    | AGPL-3.0      | https://github.com/ultralytics/ultralytics        |
+| OpenCV                | 4.7.0.72   | Apache-2.0    | https://github.com/opencv/opencv                  |
+| NumPy                 | 1.24.2     | BSE 3-Clause  | https://github.com/numpy/numpy                    |
+| firebase-admin-python | 6.1.0      | Apache-2.0    | https://github.com/firebase/firebase-admin-python |
+| v4l2rtspserver        | 0.3.7      | Unlicense     | https://github.com/mpromonet/v4l2rtspserver       |
+| Adafruit-DHT          | 1.4.0      | MIT           | https://github.com/adafruit/Adafruit_Python_DHT   |
 
 #### Backend
 
-| Name           | Version | License                                        | Link                                        |
-| -------------- | ------- | ---------------------------------------------- | ------------------------------------------- |
-| django         | 3.2.20  | BSD 3-Clause                                   | https://www.djangoproject.com/              |
-| PyJWT          | 2.8.0   | MIT                                            | https://pyjwt.readthedocs.io/en/stable/     |
-| postgresql     | 15.3    | The Postgresql License (similar to BSD or MIT) | https://www.postgresql.org/                 |
-| v4l2rtspserver | 0.3.7   | Unlicense                                      | https://github.com/mpromonet/v4l2rtspserver |
-| Docker         | 24.0.4  | Apache-2.0                                     | https://www.docker.com/                     |
-| docker-compose | 1.27.4  | Apache-2.0                                     | https://github.com/docker/compose/tree/main |
+| Name                            | Version | License                                        | Link                                                                               |
+| ------------------------------- | ------- | ---------------------------------------------- | ---------------------------------------------------------------------------------- |
+| django                          | 3.2.20  | BSD 3-Clause                                   | https://www.djangoproject.com/                                                     |
+| PyJWT                           | 2.8.0   | MIT                                            | https://pyjwt.readthedocs.io/en/stable/                                            |
+| postgresql                      | 15.3    | The Postgresql License (similar to BSD or MIT) | https://www.postgresql.org/                                                        |
+| Docker                          | 24.0.4  | Apache-2.0                                     | https://www.docker.com/                                                            |
+| docker-compose                  | 1.27.4	| Apache-2.0	                                   | https://github.com/docker/compose/tree/main                                        |
+| Docker                          | 24.0.4  | Apache-2.0                                     | https://www.docker.com/                                                            |
+| docker-compose                  | 1.27.4  | Apache-2.0                                     | https://github.com/docker/compose/tree/main                                        |
+| psycopg2-binary	                | 2.8	    | LGPL-3.0	                                     | https://www.psycopg.org/license/                                                   |
+| djangorestframework	            | 3.13.1	| BSD 3-Clause                                   | https://github.com/encode/django-rest-framework/blob/master/LICENSE.md             |
+| django-allauth	                | 0.52.0	| MIT                                            |	https://github.com/pennersr/django-allauth/blob/main/LICENSE                      |
+| djangorestframework-simplejwt	  | 5.2.2	  | MIT	                                           | https://github.com/jazzband/djangorestframework-simplejwt/blob/master/LICENSE.txt  |
+| dj-rest-auth	                  | 3.0.0	  | MIT	                                           | https://github.com/iMerica/dj-rest-auth/blob/master/LICENSE                        |
+| drf-yasg                        |	1.20.0	| BSD 3-Clause	                                 | https://github.com/axnsan12/drf-yasg/blob/master/LICENSE.rst                       |
+| Pillow                          |	10.1.0	| open source HPND License	                     | https://github.com/python-pillow/Pillow/blob/main/LICENSE                          |
+
 
 #### App
 
