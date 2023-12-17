@@ -1,11 +1,13 @@
 # <img width="120" alt="image" src="https://github.com/LSTM2023/.github/assets/87134427/6dd0f374-364f-4077-9bdc-1a5105884bbe"> : Best Of Baby
 
-## 2023 공개 SW 개발자대회
-
-![└┌╗ъ 2@3x](https://github.com/LSTM2023/.github/assets/87134427/68e31f2f-1acb-4ae5-af64-415cf634b81a)
-
 > 대회 웹사이트: https://www.oss-registration.kr/ <br>
 > 팀 LSTM 유튜브: https://youtube.com/@LSTM-vm7ee?si=nRDuaPTrV0n-HTDs
+
+## News
+
+- `2023/11/16`: 🏆 경기대학교 SW페스타 상상기업 우수상 수상
+- `2023/11/13`: 🏆 2023 공개SW 개발자대 동상(큐브리드 대표상) 수상
+- `2023/06/14`: 🏆 경기대학교 컴퓨터공학부 심화 캡스톤 대상 수상
 
 <br>
 
